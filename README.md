@@ -12,8 +12,8 @@ End the program.
 
 # PROGRAM
 ```
-NAME: Priyadharshini P
-REG NO: 212222100039
+NAME: PSACHIN M
+REG NO: 212223040177
 
 #include <stdio.h>
 #include <stdlib.h>
